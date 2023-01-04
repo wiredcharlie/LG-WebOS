@@ -1,0 +1,10 @@
+{
+  "id": "amazon",
+  "version": "0.0.1",
+  "vendor": "open source",
+  "type": "web",
+  "main": "index.html",
+  "title": "iPlayer by Amazon key",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}

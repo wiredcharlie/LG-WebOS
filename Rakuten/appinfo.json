@@ -1,0 +1,10 @@
+{
+  "id": "ui30",
+  "version": "0.0.1",
+  "vendor": "open source",
+  "type": "web",
+  "main": "index.html",
+  "title": "YouTube by Movies key",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Launch iPlayer</title>
+
+
+<script src="webOSTVjs-1.2.4/webOSTV.js" charset="utf-8"></script>
+<script src="webOSTVjs-1.2.4/webOSTV-dev.js" charset="utf-8"></script>
+<script type="text/javascript">
+    (function() {
+        // Launching app without parameter
+        var request = webOS.service.request("luna://com.webos.applicationManager", {
+            method: "launch",
+            parameters: { "id": "bbc.iplayer.3.0" },
+            onSuccess(response) {
+              window.close();
+            },
+            onFailure(error) {
+              window.close();
+            },
+        });
+    })();
+</script>
+
+
+
+</html>
