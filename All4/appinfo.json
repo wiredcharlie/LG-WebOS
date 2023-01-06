@@ -1,0 +1,10 @@
+{
+  "id": "all4",
+  "version": "0.0.1",
+  "vendor": "open source",
+  "type": "web",
+  "main": "index.html",
+  "title": "All4 browser",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
