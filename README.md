@@ -1,5 +1,9 @@
 # LG-WebOS
-For LG TV
+For LG TV - Tested on OLED55CX
+
+all4_0.0.1_all.ipk
+
+- WebOS app that opens browser at https://www.channel4.com/my4/watching. This is for 2020 TVs for which an All4 app is unavailable.
 
 amazon_0.0.1_all.ipk
 
@@ -18,3 +22,8 @@ https://webostv.developer.lge.com/develop/getting-started/preparing-lg-account
 
 https://github.com/webosbrew/dev-manager-desktop/releases/tag/v1.8.2
 
+Excellent info here:
+
+https://gist.github.com/Ircama/1f29c2d2def75da6604756a3c91a8ab4
+
+...but did not work exactly as described.
